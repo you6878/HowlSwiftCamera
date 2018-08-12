@@ -28,6 +28,8 @@
 	<string>카메라를 찍기 위해서 권한이 필요합니다.</string>
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>앨범을 가져오기 위해서는 권한이 필요합니다.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>앨범에 사진을 저장하기 위해서는 권한이 필요합니다.</string>
 	<key>UIRequiredDeviceCapabilities</key>
 	<array>
 		<string>armv7</string>
